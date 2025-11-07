@@ -7,7 +7,7 @@ export const benefits: IBenefit[] = [
     {
         title: "Assess Your Financial Readiness",
         description: "Get a clear picture of your financial health and understand exactly what you need to start your home buying journey with confidence.",
-        imageSrc: "/images/benefit-1.png",
+        imageSrc: "/images/benefits-1.png",
         bullets: [
             {
                 title: "Smart Deposit Calculator",
@@ -29,7 +29,7 @@ export const benefits: IBenefit[] = [
     {
         title: "Streamline Your Agreement in Principle",
         description: "Get your pre-approval sorted quickly with our organized document management system that keeps all your proofs in one secure place.",
-        imageSrc: "/images/benefit-2.png",
+        imageSrc: "/images/benefits-2.png",
         bullets: [
             {
                 title: "Document Checklist",
@@ -51,7 +51,7 @@ export const benefits: IBenefit[] = [
     {
         title: "Find Your Perfect Property",
         description: "Search for homes with personalized results that match both your dream home criteria and your financial reality.",
-        imageSrc: "/images/benefit-3.png",
+        imageSrc: "/images/benefits-3.png",
         bullets: [
             {
                 title: "Integrated Property Search",
@@ -73,7 +73,7 @@ export const benefits: IBenefit[] = [
     {
         title: "Choose the Best Mortgage Product",
         description: "Compare mortgage options across banks and find the perfect product that saves you money and suits your financial goals.",
-        imageSrc: "/images/benefit-4.png",
+        imageSrc: "/images/benefits-4.png",
         bullets: [
             {
                 title: "Comprehensive Comparison",
