@@ -9,4 +9,5 @@ export const siteDetails = {
     locale: 'en-US',
     siteLogo: `${process.env.BASE_PATH || ''}/images/logo.png`, // or use a string for the logo e.g. "TechStartup"
     siteUrl: "https://mojo-mortgage-journey.vercel.app/", // Update with your actual domain
+    googleAnalyticsId: '', // e.g. G-XXXXXXX,
 }
