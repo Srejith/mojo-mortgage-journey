@@ -5,6 +5,7 @@ import Waitlist from "@/components/WaitlistForm";
 
 const HomePage: React.FC = () => {
   return (
+      <>
       <Hero />
       
       <Container>
