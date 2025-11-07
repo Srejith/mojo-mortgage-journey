@@ -11,7 +11,6 @@ const HomePage: React.FC = () => {
       <Container>
         <Benefits />
         <Waitlist/>
-        <CTA />
       </Container>
     </>
   );
