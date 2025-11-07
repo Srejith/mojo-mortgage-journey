@@ -19,14 +19,6 @@ const Header: React.FC = () => {
 
     return (
         <header className="bg-transparent fixed top-0 left-0 right-0 md:absolute z-50 mx-auto w-full">
-            <script
-                  src="https://cdn.jsdelivr.net/gh/logspace-ai/langflow-embedded-chat@v1.0.7/dist/build/static/js/bundle.min.js">
-            </script>
-            <langflow-chat
-                window_title="Assignment 1 - Solutions"
-                flow_id="29c35a37-12aa-4722-8a76-cb45c00e5ad8"
-                host_url="http://localhost:7860">
-            </langflow-chat>
             <Container className="!px-0">
                 <nav className="shadow-md md:shadow-none bg-white md:bg-transparent mx-auto flex justify-between items-center py-2 px-5 md:py-10">
                     {/* Logo */}
