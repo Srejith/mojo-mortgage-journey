@@ -12,17 +12,17 @@ export const benefits: IBenefit[] = [
             {
                 title: "Smart Deposit Calculator",
                 description: "Calculate your minimum deposit requirements and discover government schemes that can reduce the amount you need upfront.",
-                icon: <FaCalculator className="w-12 h-12 text-secondary" />
+                icon: <FaCalculator size={26} />
             },
             {
                 title: "Complete Cost Breakdown",
                 description: "See the full financial picture including refurbishment costs, home amenities, and hidden expenses beyond just the deposit.",
-                icon: <MdSavings className="w-12 h-12 text-secondary" />
+                icon: <MdSavings size={26} />
             },
             {
                 title: "Financial Literacy Hub",
                 description: "Access easy-to-understand guides and resources to build your mortgage knowledge and make informed decisions.",
-                icon: <FaChartLine className="w-12 h-12 text-secondary" />
+                icon: <FaChartLine size={26} />
             }
         ]
     },
@@ -34,17 +34,17 @@ export const benefits: IBenefit[] = [
             {
                 title: "Document Checklist",
                 description: "Never miss a required document with our comprehensive checklist covering identity proofs, payslips, rental agreements, and bank statements.",
-                icon: <FaFileAlt className="w-12 h-12 text-secondary" />
+                icon: <FaFileAlt size={26} />
             },
             {
                 title: "Affordability Assessment",
                 description: "Understand your borrowing capacity through automated calculations based on your savings habits, rent history, and stress-test scenarios.",
-                icon: <MdVerifiedUser className="w-12 h-12 text-secondary" />
+                icon: <MdVerifiedUser size={26} />
             },
             {
                 title: "Secure Document Storage",
                 description: "Keep all your proof of funds, statements, and agreements organized and ready to submit whenever you need them.",
-                icon: <FaFileAlt className="w-12 h-12 text-secondary" />
+                icon: <FaFileAlt size={26} />
             }
         ]
     },
@@ -56,17 +56,17 @@ export const benefits: IBenefit[] = [
             {
                 title: "Integrated Property Search",
                 description: "Browse properties filtered by your Agreement in Principle amount, government scheme eligibility, and financial strategy recommendations.",
-                icon: <BiSearch className="w-12 h-12 text-secondary" />
+                icon: <BiSearch size={26} />
             },
             {
                 title: "Smart Filtering",
                 description: "Find new homes, scheme-eligible properties, and listings that match your pre-approved mortgage amount - all in one place.",
-                icon: <FaHome className="w-12 h-12 text-secondary" />
+                icon: <FaHome size={26} />
             },
             {
                 title: "Financial Context",
                 description: "See how each property fits your budget with connected financial insights, removing the guesswork from property hunting.",
-                icon: <FaChartLine className="w-12 h-12 text-secondary" />
+                icon: <FaChartLine size={26} />
             }
         ]
     },
@@ -78,17 +78,17 @@ export const benefits: IBenefit[] = [
             {
                 title: "Comprehensive Comparison",
                 description: "Compare fixed rate, variable rate, cashback schemes, repayment mortgages, and interest-only options across multiple lenders.",
-                icon: <MdCompare className="w-12 h-12 text-secondary" />
+                icon: <MdCompare size={26} />
             },
             {
                 title: "Interest Rate Optimizer",
                 description: "Discover strategies to reduce your interest rates, including linking savings accounts to offset your mortgage balance.",
-                icon: <FaCalculator className="w-12 h-12 text-secondary" />
+                icon: <FaCalculator size={26} />
             },
             {
                 title: "Cross-Bank Analysis",
                 description: "Get personalized recommendations by analyzing all mortgage factors across different banks to find your best deal.",
-                icon: <FaChartLine className="w-12 h-12 text-secondary" />
+                icon: <FaChartLine size={26} />
             }
         ]
     }
