@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 import { FaCheckCircle } from 'react-icons/fa';
 
+
 const WaitlistForm: React.FC = () => {
     const [email, setEmail] = useState('');
     const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
@@ -99,6 +100,7 @@ const WaitlistForm: React.FC = () => {
                     </p>
                 )}
             </div>
+            
         </section>
     );
 };

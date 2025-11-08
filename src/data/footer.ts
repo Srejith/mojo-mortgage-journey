@@ -1,27 +1,13 @@
-import { IMenuItem, ISocials } from "@/types";
+import { ISocials } from "@/types";
 
 export const footerDetails: {
     subheading: string;
-    quickLinks: IMenuItem[];
     email: string;
     telephone: string;
     socials: ISocials;
 } = {
-    subheading: "Empowering businesses with cutting-edge financial technology solutions.",
-    quickLinks: [
-        {
-            text: "Features",
-            url: "#features"
-        },
-        {
-            text: "Pricing",
-            url: "#pricing"
-        },
-        {
-            text: "Testimonials",
-            url: "#testimonials"
-        }
-    ],
+    subheading: "Navigate the complex mortgage landscape with clear guidance and smart choices—all in one seamless experience.",
+    
     email: 'address@yoursite.com',
     telephone: '+1 (123) 456-7890',
     socials: {
