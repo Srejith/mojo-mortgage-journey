@@ -42,7 +42,7 @@ const LangFlowChat = () => {
       <langflow-chat
         host_url={langFlowChat.hostUrl}
         flow_id={langFlowChat.flowId}
-        api_key={langFlowChat.apikey}
+        api_key={"sk-nP1vdxAOZT9INyFQoxniEtNLuxRJWSBjx1AhXcFGXpk"}
         chat_position={"top-right"}
         start_open={true}
         width={800}
