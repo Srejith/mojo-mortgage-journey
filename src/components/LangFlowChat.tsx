@@ -6,7 +6,6 @@ import { langFlowChat } from '@/data/langflowchat';
 interface LangflowChatProps {
   host_url?: string;
   flow_id?: string;
-  api_key?: string;
   chat_position?: string;
   width?: number;
   height?: number;
@@ -42,7 +41,6 @@ const LangFlowChat = () => {
       <langflow-chat
         host_url={langFlowChat.hostUrl}
         flow_id={langFlowChat.flowId}
-        api_key={langFlowChat.apikey}
         chat_position={"top-right"}
         start_open={true}
         width={800}
