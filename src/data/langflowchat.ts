@@ -1,4 +1,5 @@
 export const langFlowChat = {
-    hostUrl: 'http://localhost:7860',
-    flowId: '29c35a37-12aa-4722-8a76-cb45c00e5ad8'
+    hostUrl: 'https://osvaldo-worriless-postally.ngrok-free.dev',
+    flowId: '1ee9fcd2-6c92-47b6-9fb8-8f75e873a8b2',
+    apikey: 'sk-nP1vdxAOZT9INyFQoxniEtNLuxRJWSBjx1AhXcFGXpk'
 }
